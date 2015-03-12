@@ -1,0 +1,6 @@
+*.pyc
+dist
+build
+selenium
+model
+servicenowclasswriter.egg-info
